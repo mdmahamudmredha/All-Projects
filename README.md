@@ -24,6 +24,6 @@ This portfolio acts as a central hub for both technical and non-technical audien
 - 🎓 **Full Code + Concept Explanation (For Learners)**: [Watch Here](https://youtu.be/vqXt1wZuaIk?si=byCFR5mYxtwTQQOV)  
 - 🧠 **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/link_to_recruiter_friendly_video)
 
-**📁 Repo**: [View Project](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/tree/main)
+**📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/tree/main)
 
 
