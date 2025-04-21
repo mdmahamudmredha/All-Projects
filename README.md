@@ -6,11 +6,7 @@ This portfolio acts as a central hub for both technical and non-technical audien
 
 
 
-## 🐶 Packaging Appeal vs. Purchase Behavior 
-### Keywords  
-- ![#Scipy](https://img.shields.io/badge/-Scipy-blue)  
-- ![#EDA](https://img.shields.io/badge/-EDA-orange)  
-- ![#Statistics](https://img.shields.io/badge/-Statistics-green) 
+## 🐶 Packaging Appeal vs. Purchase Behavior: A Data Science-Based Decision-Making Project ![#Scipy](https://img.shields.io/badge/-Scipy-blue) ![#EDA](https://img.shields.io/badge/-EDA-orange)  ![#Statistics](https://img.shields.io/badge/-Statistics-green) 
 
 **🔍 Overview**: A hypothesis testing project for a Dog Food company to determine if packaging uniqueness influences purchase decisions.
 
