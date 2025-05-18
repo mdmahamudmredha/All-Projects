@@ -26,9 +26,6 @@ This portfolio acts as a central hub for both technical and non-technical audien
 
 **📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/tree/main)
 
-
-একদম ঠিক! নিচে আমি তোমার **“All Hypothesis Tests”** প্রজেক্টের জন্য একদম সেই স্টাইলে একটি compact **Project Summary** section তৈরি করে দিচ্ছি, যেটা তুমি তোমার GitHub README.md এর শুরুর দিকে রাখতে পারো — fully professional এবং recruiter-friendly ফরম্যাটে:
-
 ---
 
 ## 🧪 All Hypothesis Tests: A Complete Statistical Decision-Making Project **![#DataScience](https://img.shields.io/badge/-Data%20Science-004d00)** **![#Statistics](https://img.shields.io/badge/-Statistics-green)** **![#HypothesisTesting](https://img.shields.io/badge/-Hypothesis%20Testing-blueviolet)** **![#ParametricTests](https://img.shields.io/badge/-Parametric-orange)** **![#NonParametricTests](https://img.shields.io/badge/-Non--Parametric-teal)** **![#Pandas](https://img.shields.io/badge/-Pandas-150458)** **![#Visualization](https://img.shields.io/badge/-Visualization-0e8a16)**
@@ -76,6 +73,30 @@ Parametric vs Non-Parametric Testing, Assumption Checking, Normality Tests, Vari
 
 **📁 GitHub Repo**:
 [📂 View Project on GitHub](https://github.com/mdmahamudmredha/All-Hypothesis-Test-Projects/tree/main)
+
+---
+
+## 💼 RFM Segmentation: SQL-Based Customer Analytics Project **![SQL](https://img.shields.io/badge/-SQL-336791)** **![#EDA](https://img.shields.io/badge/-EDA-orange)** **![#CustomerAnalytics](https://img.shields.io/badge/-Customer%20Analytics-blue)** **![#BusinessIntelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D01?style=flat\&color=white)** **![#Segmentation](https://img.shields.io/badge/-Segmentation-teal)** **![#MySQL](https://img.shields.io/badge/-Customer%20Retention-green)**
+
+**🔍 Overview**:
+A real-world SQL-based marketing analytics project where customers are segmented using the **RFM model** (Recency, Frequency, Monetary). This helps businesses identify champions, loyal users, at-risk customers, and more — using only **MySQL**.
+
+**📌 Tools & Technologies**:
+MySQL, SQL Views, Excel-based dataset
+
+**📈 Key Concepts**:
+Customer Segmentation, RFM Scoring, SQL Window Functions, Business Intelligence
+
+**📊 Techniques Used**:
+Date formatting, Aggregation, NTILE scoring, CASE logic for labeling segments
+
+**🎥 Video Walkthroughs**:
+
+* - 🎓 **Full SQL Script + Concept Explanation (For Learners)**: [Watch Here](https://www.youtube.com/watch?v=MnBbYINMbFc)
+* - 🧠 **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/link_to_recruiter_friendly_video)
+
+**📁 GitHub Repo**:
+[View Project](https://github.com/mdmahamudmredha/RFM-Analysis-with-MySQL/tree/main)
 
 ---
 
