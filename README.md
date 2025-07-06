@@ -23,13 +23,13 @@ The project begins with deep **SQL-based EDA**, including custom metrics like ac
 
 Finally, the project applies **KMeans clustering** on student behavior (e.g., mark%, time taken) to segment students into groups like fast & accurate, slow but low scorer, etc. These segments offer valuable insights for educators to deliver **personalized feedback** and improve outcomes.
 
-** Tools & Technologies**:
+**Tools & Technologies**:
 BigQuery SQL, Power BI, Python (Pandas, Scikit-learn), Jupyter Notebook
 
-** Key Concepts**:
+**Key Concepts**:
 Student Performance Analysis, Exam Result Classification, Time-based Performance Trend, Clustering (KMeans), Business Intelligence, DAX Measures
 
-** Techniques Used**:
+**Techniques Used**:
 * SQL Joins, Aggregations, Window Functions (`LAG()`, `RANK()`, `ROW_NUMBER()`)
 * Percentage-based mark calculation
 * Time duration handling using `TIMESTAMP_DIFF`
@@ -37,7 +37,7 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 * KMeans Clustering on performance & behavior metrics
 * Insightful labeling of clusters and interpretation
 
-** Visuals in Power BI**:
+**Visuals in Power BI**:
 * Day-wise Exam Attendance (Line Chart)
 * Stacked Bar Chart: Daily Attempts by Exam
 * Top 5 Students per Exam (Rank + Time)
@@ -46,12 +46,12 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 * Most Improved in 2nd Attempt (Filtered Table)
 * Cluster-based student categorization
 
-** Clustering Insights**:
+**Clustering Insights**:
 * Grouped students by speed and accuracy
 * Interpreted behavior using average mark %, time taken
 * Used results to suggest personalized student feedback
 
-** Video Walkthroughs**:
+**Video Walkthroughs**:
 * *  **Full SQL + Power BI + ML Concept Walkthrough (For Learners)**[Video Link](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 * *  **Output + Insight Summary (For Recruiters / Business Users)**[Video Link](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
