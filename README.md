@@ -11,7 +11,7 @@ This portfolio acts as a central hub for both technical and non-technical audien
 ---
 
 
-## Student Exam Analytics Project using SQL, Power BI & Machine Learning **![SQL](https://img.shields.io/badge/-SQL-blue)** **![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)** **![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)** **![KMeans](https://img.shields.io/badge/-KMeans-orange)** **![EDA](https://img.shields.io/badge/-EDA-teal)** **![Clustering](https://img.shields.io/badge/-Clustering-purple)** **![Student Analytics](https://img.shields.io/badge/-Student%20Analytics-0057e7)** **![DAX](https://img.shields.io/badge/-DAX-black)**
+## Student Exam Analytics Project using SQL, Power BI & Machine Learning  **![SQL](https://img.shields.io/badge/-SQL-blue)** **![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)** **![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)** **![KMeans](https://img.shields.io/badge/-KMeans-orange)** **![EDA](https://img.shields.io/badge/-EDA-teal)** **![Clustering](https://img.shields.io/badge/-Clustering-purple)** **![Student Analytics](https://img.shields.io/badge/-Student%20Analytics-0057e7)** **![DAX](https://img.shields.io/badge/-DAX-black)**
 
 **📁 GitHub Repo**:
 [🔗 View Full Project](https://github.com/mdmahamudmredha/Student_Data_Query)
