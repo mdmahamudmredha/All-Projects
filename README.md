@@ -64,15 +64,15 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 
 **📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/tree/main)
 
-** Overview**: A hypothesis testing project for a Dog Food company to determine if packaging uniqueness influences purchase decisions.
+**Overview**: A hypothesis testing project for a Dog Food company to determine if packaging uniqueness influences purchase decisions.
 
-** Tools & Technologies**: Python, Pandas, Seaborn, Scipy
+**Tools & Technologies**: Python, Pandas, Seaborn, Scipy
 
-** Key Concepts**: Chi-Square Test of Independence, Categorical Data Visualization
+**Key Concepts**: Chi-Square Test of Independence, Categorical Data Visualization
 
-** Techniques Used**: Cross-tabulation, Heatmaps, Countplots, Statistical Testing
+**Techniques Used**: Cross-tabulation, Heatmaps, Countplots, Statistical Testing
 
-** Video Walkthroughs**:  
+**Video Walkthroughs**:  
 -  **Full Code + Concept Explanation (For Learners)**: [Watch Here](https://youtu.be/vqXt1wZuaIk?si=byCFR5mYxtwTQQOV)  
 -  **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/link_to_recruiter_friendly_video)
 
@@ -85,16 +85,16 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 **📁 GitHub Repo**:
 [📂 View Project on GitHub](https://github.com/mdmahamudmredha/All-Hypothesis-Test-Projects/tree/main)
 
-** Overview**:
+**Overview**:
 A complete hypothesis testing project showcasing both parametric and non-parametric tests on numerical and Categorical datasets. This notebook demonstrates the logic, assumptions, and business implications of each test — helping learners and decision-makers understand where, why, and how to apply statistical testing in real-world contexts.
 
-** Tools & Technologies**:
+**Tools & Technologies**:
 Python, Pandas, Seaborn, Matplotlib, Scipy, Statsmodels
 
-** Key Concepts**:
+**Key Concepts**:
 Parametric vs Non-Parametric Testing, Assumption Checking, Normality Tests, Variance Tests, Central Tendency Tests, Association Tests
 
-** Tests Covered**:
+**Tests Covered**:
 
 | Category         | Test Name                       | Purpose                                           |
 | ---------------- | ------------------------------- | ------------------------------------------------- |
