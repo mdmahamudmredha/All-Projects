@@ -218,4 +218,22 @@ This project demonstrates how RFM and ML clustering can be combined to generate 
 
 ---
 
+##  NewsGuard-AI (FakeNewsDetector)  **![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-004d00)**  **![#Pandas](https://img.shields.io/badge/-Pandas-teal)**  **![#EDA](https://img.shields.io/badge/-EDA-orange)**
+
+**📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/NewsGuard-AI/tree/main)
+
+**Overview**: An AI-powered application that detects whether a news article is real or fake using Machine Learning.
+
+**Tools & Technologies**: Python, Pandas, Scikit-learn, Vectorizer
+
+**Video Walkthroughs**:  
+-  **Full Code + Concept Explanation (For Learners)**: [Watch Here](https://youtu.be/)  
+-  **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/)
+
+**📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/NewsGuard-AI/tree/main)
+
+---
+
+
+
 
