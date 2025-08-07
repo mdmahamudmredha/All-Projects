@@ -218,6 +218,37 @@ This project demonstrates how RFM and ML clustering can be combined to generate 
 
 ---
 
+## People Flow Detection using Object Tracking & Heatmap Visualization  **![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-004d00)**  **![YOLOv8](https://img.shields.io/badge/-YOLOv8-blue)**  **![Object Tracking](https://img.shields.io/badge/-Object%20Tracking-teal)**  **![ByteTrack](https://img.shields.io/badge/-ByteTrack-darkgreen)**  **![OpenCV](https://img.shields.io/badge/-OpenCV-red)**  **![Heatmap](https://img.shields.io/badge/-Heatmap-orange)**  **![Real-time Analytics](https://img.shields.io/badge/-Real--time%20Analytics-purple)**  **![Surveillance](https://img.shields.io/badge/-Surveillance-8B0000)**
+
+
+**📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization)
+
+**Overview**:
+A complete end-to-end computer vision solution to detect, track, count, and analyze people flow in a video feed. This project combines object detection (YOLOv8), tracking (ByteTrack), and spatial behavior analytics (heatmap) to support decision-making in areas such as retail analytics, public safety, and smart infrastructure.
+
+**Tools & Technologies**:
+Python, YOLOv8 (Ultralytics), ByteTrack, Supervision, OpenCV, NumPy, Matplotlib
+
+**Key Concepts**:
+Object Detection, Multi-Object Tracking, IN/OUT Line-Crossing Logic, Heatmap Generation, Video Frame Annotation
+
+**Techniques Used**:
+
+* YOLOv8 for real-time person detection (class 0 only)
+* ByteTrack for unique identity tracking across frames
+* Custom logic to detect IN and OUT movement across two virtual lines
+* Gaussian-based movement heatmap visualization
+* Video output with bounding boxes, object IDs, and live counters
+
+**Video Walkthroughs**:
+
+* **Full Code + Concept Explanation (For Learners)**: [Watch Here](https://youtu.be/link_to_your_full_code_video)
+* **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/link_to_recruiter_friendly_video)
+
+**📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/People-Flow-Detection-using-Object-Tracking-Heatmap-Visualization)
+
+---
+
 ##  NewsGuard-AI (FakeNewsDetector)  **![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-004d00)**  **![#Pandas](https://img.shields.io/badge/-Pandas-teal)**  **![#EDA](https://img.shields.io/badge/-EDA-orange)**
 
 **📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/NewsGuard-AI/tree/main)
