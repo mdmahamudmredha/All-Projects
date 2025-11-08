@@ -91,7 +91,7 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rtae.png" width="1000"/>
 </p>
 
-### Extra Insight From me (Clustering)
+### Clustering
 
 <p align="center">
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
