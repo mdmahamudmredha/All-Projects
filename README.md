@@ -69,6 +69,14 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 
 ---
 
+## Super store Sales Dashboard
+### Power BI Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/5d18f8ca-3254-4ad8-8c3b-609050a6910b/a828a5acdc7069096cd9?experience=power-bi)
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Super-store-Sales-Dashboard/blob/main/Dashboad.png" width="1000"/>
+</p>
+
+---
+
 ##  Packaging Appeal vs. Purchase Behavior: A Data Science-Based Decision-Making Project  **![Data Science](https://img.shields.io/badge/-Data%20Science-004d00)**  **![#Pandas](https://img.shields.io/badge/-Pandas-teal)**  **![#Scipy](https://img.shields.io/badge/-Scipy-blue)**  **![#EDA](https://img.shields.io/badge/-EDA-orange)**  **![#Statistics](https://img.shields.io/badge/-Statistics-green)**  **![#BusinessIntelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6D01?style=flat&color=white)**
 
 **📁 GitHub Repo**: [View Project](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/tree/main)
