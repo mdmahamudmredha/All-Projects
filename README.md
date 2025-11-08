@@ -15,7 +15,8 @@ This portfolio acts as a central hub for both technical and non-technical audien
 
 **📁 GitHub Repo**:
 [🔗 View Full Project](https://github.com/mdmahamudmredha/Student_Data_Query)
-
+### Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiMmVhZjExNDctOTM4Mi00ZDQ1LTllMTctODZiMjQ2OTRlMjM2IiwidCI6IjgxYmI4MGFlLTcxY2ItNDk4Yi05NGJiLThhNWNjMjljNDEzZCIsImMiOjEwfQ%3D%3D)
+### Video Explanation [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 **Overview**
 A complete end-to-end **Student Exam Analytics** project where performance data is analyzed using **BigQuery SQL**, **visualized with Power BI**, and extended with **clustering via Machine Learning**.
 
@@ -50,6 +51,67 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 * Grouped students by speed and accuracy
 * Interpreted behavior using average mark %, time taken
 * Used results to suggest personalized student feedback
+
+### 1. Day-wise Exam Attendance Trend
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Attendance%20by%20Week%20Days%20and%20Date.png" width="1000"/>
+</p>
+
+### 2. Stacked Bar Chart: Daily Attempts by Exam
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20Chart.png" width="1000"/>
+</p>
+
+
+### 3. Top 5 Students in Each Exam		
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Top%205%20Students.png" width="1000"/>
+</p>
+
+
+### 4. Performance Trend Categories (Improved / Declined / Same)
+### 6. In which exams are students most likely to decline in performance?
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Trend%20%26%20Decline%20Analysis.png" width="1000"/>
+</p>
+				
+### 5. Who improved the most in their second attempt?	
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Improve%20Attempts.png" width="1000"/>
+</p>
+
+### 7. Is there any correlation between exam date and pass rate over time?
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rtae.png" width="1000"/>
+</p>
+
+### Extra Insight From me (Clustering)
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
+</p>
+
+## Clustering with Machine Learning Algorithm
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/ML.png" width="1000"/>
+</p>
+
+**See All Steps** [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Machine%20Learning%20Clustering/Student%20Clustering.ipynb)
+
+| Cluster | Student Count | Avg Duration (sec) | Avg Mark | % Mark   |
+| ------- | ------------- | ------------------ | -------- | -------- |
+| 0       | 82            | 601 (\~10 min)     | 18.17    | 74.88%   |
+| 1       | 47            | 967 (\~16 min)     | 5.59     | 23.58%   |
+| 2       | 90            | 1062 (\~18 min)    | 14.38    | 57.11%   |
+| 3       | 81            | 515 (\~8.6 min)    | 10.37    | 43.01%   |
+
 
 **Video Walkthroughs**:
 * *  **Full SQL + Power BI + ML Concept Walkthrough (For Learners)**[Video Link](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
