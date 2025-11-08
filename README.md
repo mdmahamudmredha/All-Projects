@@ -131,7 +131,7 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 
 ---
 
-## Super store Sales Dashboard
+## Super store Sales Analysis Dashboard
 ### Power BI Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/5d18f8ca-3254-4ad8-8c3b-609050a6910b/a828a5acdc7069096cd9?experience=power-bi)
 <p align="center">
   <img src="https://github.com/mdmahamudmredha/Super-store-Sales-Dashboard/blob/main/Dashboad.png" width="1000"/>
