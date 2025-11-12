@@ -122,7 +122,7 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 
 ---
 
-## Uber Ride Insights Dashboard
+## Uber Ride Insights Dashboard **![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)** **![DAX](https://img.shields.io/badge/-DAX-black)**
 ### Problem Statement Link [Click Here](https://github.com/mdmahamudmredha/Uber-Ride-Insights-Dashboard/blob/main/Problem%20Statement.pdf)
 ### Interactive Dashboard Link [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzZhMjQ0YmItOWYzMi00OTkwLTk1ZjMtYmI1YTlkZjMxZTBiIiwidCI6IjgxYmI4MGFlLTcxY2ItNDk4Yi05NGJiLThhNWNjMjljNDEzZCIsImMiOjEwfQ%3D%3D)
 <p align="center">
@@ -131,7 +131,7 @@ Student Performance Analysis, Exam Result Classification, Time-based Performance
 
 ---
 
-## Super store Sales Analysis Dashboard
+## Super Store Sales Analysis Dashboard **![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)** **![DAX](https://img.shields.io/badge/-DAX-black)**
 ### Power BI Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/5d18f8ca-3254-4ad8-8c3b-609050a6910b/a828a5acdc7069096cd9?experience=power-bi)
 <p align="center">
   <img src="https://github.com/mdmahamudmredha/Super-store-Sales-Dashboard/blob/main/Dashboad.png" width="1000"/>
